@@ -53,3 +53,6 @@ JWT_SECRET=your_secret_key
 - POST `/api/tasks`
 - PATCH `/api/tasks/:id`
 - DELETE `/api/tasks/:id`
+## Preview
+
+![Postman Get Tasks Screenshot](./screenshots/postman-get-tasks.png)
